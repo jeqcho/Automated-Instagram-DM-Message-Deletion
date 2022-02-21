@@ -2,12 +2,15 @@
 In response to the spread of malicious links through Instagram DMs, this repository aims to help you clean and purge your Instagram inbox out of any malicious links you sent. They look like:
 
 > This took me about 2 hours to make. I hope you like it.
+> 
 > `http://socialbox3136.buzz/username`
 
 > This took me about 3 hours to make. I hope you like it,
+> 
 > `http://giftstore512.buzz/username`
 
 > This took me a few hours to make. I hope you love it,
+> 
 > `http://instaexpress8008.buzz/username`
 
 The numbers 3136, 512 and 8008 can be different according to user.
